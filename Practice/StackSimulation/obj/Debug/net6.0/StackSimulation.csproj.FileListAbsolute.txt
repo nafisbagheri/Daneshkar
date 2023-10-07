@@ -1,0 +1,15 @@
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.csproj.AssemblyReference.cache
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.AssemblyInfoInputs.cache
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.AssemblyInfo.cs
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.csproj.CoreCompileInputs.cache
+D:\bagheri\Practice\StackSimulation\bin\Debug\net6.0\StackSimulation.exe
+D:\bagheri\Practice\StackSimulation\bin\Debug\net6.0\StackSimulation.deps.json
+D:\bagheri\Practice\StackSimulation\bin\Debug\net6.0\StackSimulation.runtimeconfig.json
+D:\bagheri\Practice\StackSimulation\bin\Debug\net6.0\StackSimulation.dll
+D:\bagheri\Practice\StackSimulation\bin\Debug\net6.0\StackSimulation.pdb
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.dll
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\refint\StackSimulation.dll
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.pdb
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\StackSimulation.genruntimeconfig.cache
+D:\bagheri\Practice\StackSimulation\obj\Debug\net6.0\ref\StackSimulation.dll

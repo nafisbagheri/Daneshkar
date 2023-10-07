@@ -1,0 +1,15 @@
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\bin\Debug\net6.0\CalculatorSimulation.exe
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\bin\Debug\net6.0\CalculatorSimulation.deps.json
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\bin\Debug\net6.0\CalculatorSimulation.runtimeconfig.json
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\bin\Debug\net6.0\CalculatorSimulation.dll
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\bin\Debug\net6.0\CalculatorSimulation.pdb
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.csproj.AssemblyReference.cache
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.AssemblyInfoInputs.cache
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.AssemblyInfo.cs
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.csproj.CoreCompileInputs.cache
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.dll
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\refint\CalculatorSimulation.dll
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.pdb
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\CalculatorSimulation.genruntimeconfig.cache
+D:\bagheri\Practice\CalculatorSimulation\CalculatorSimulation\CalculatorSimulation\obj\Debug\net6.0\ref\CalculatorSimulation.dll

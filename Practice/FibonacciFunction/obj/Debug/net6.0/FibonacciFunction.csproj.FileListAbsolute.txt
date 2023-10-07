@@ -1,0 +1,15 @@
+D:\bagheri\Practice\FibonacciFunction\bin\Debug\net6.0\FibonacciFunction.exe
+D:\bagheri\Practice\FibonacciFunction\bin\Debug\net6.0\FibonacciFunction.deps.json
+D:\bagheri\Practice\FibonacciFunction\bin\Debug\net6.0\FibonacciFunction.runtimeconfig.json
+D:\bagheri\Practice\FibonacciFunction\bin\Debug\net6.0\FibonacciFunction.dll
+D:\bagheri\Practice\FibonacciFunction\bin\Debug\net6.0\FibonacciFunction.pdb
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.csproj.AssemblyReference.cache
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.AssemblyInfoInputs.cache
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.AssemblyInfo.cs
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.csproj.CoreCompileInputs.cache
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.dll
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\refint\FibonacciFunction.dll
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.pdb
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\FibonacciFunction.genruntimeconfig.cache
+D:\bagheri\Practice\FibonacciFunction\obj\Debug\net6.0\ref\FibonacciFunction.dll

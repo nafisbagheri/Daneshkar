@@ -1,0 +1,15 @@
+D:\bagheri\Practice\FactorialFunction\bin\Debug\net6.0\FactorialFunction.exe
+D:\bagheri\Practice\FactorialFunction\bin\Debug\net6.0\FactorialFunction.deps.json
+D:\bagheri\Practice\FactorialFunction\bin\Debug\net6.0\FactorialFunction.runtimeconfig.json
+D:\bagheri\Practice\FactorialFunction\bin\Debug\net6.0\FactorialFunction.dll
+D:\bagheri\Practice\FactorialFunction\bin\Debug\net6.0\FactorialFunction.pdb
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.csproj.AssemblyReference.cache
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.AssemblyInfoInputs.cache
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.AssemblyInfo.cs
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.csproj.CoreCompileInputs.cache
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.dll
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\refint\FactorialFunction.dll
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.pdb
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\FactorialFunction.genruntimeconfig.cache
+D:\bagheri\Practice\FactorialFunction\obj\Debug\net6.0\ref\FactorialFunction.dll
